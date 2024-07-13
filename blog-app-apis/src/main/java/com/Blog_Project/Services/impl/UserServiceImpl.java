@@ -5,11 +5,8 @@ import com.Blog_Project.Exception.ResourceNotFoundException;
 import com.Blog_Project.Repositories.UserRepo;
 import com.Blog_Project.Services.UserService;
 import com.Blog_Project.payLoads.UserDto;
-import lombok.Getter;
-import lombok.Setter;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.context.config.ConfigDataResourceNotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
