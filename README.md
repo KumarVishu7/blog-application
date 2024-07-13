@@ -1,4 +1,3 @@
-
 This is Project of blog Application. Developed a blogging application using Java, SpringBoot.
 • Implemented user authentication and authorization for secure access. 
 • Utilized MySQL to store and retrieve blog posts and user information.
